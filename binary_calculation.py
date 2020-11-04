@@ -1,4 +1,3 @@
-# Hàm để tăng độ dài của chuỗi bằng với chuỗi còn lại
 def makeEqualLength(a, b): 
 	len_a = len(a) 
 	len_b = len(b) 
